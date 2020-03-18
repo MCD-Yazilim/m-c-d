@@ -1,0 +1,27 @@
+{
+  "name": "m-c-d",
+  "version": "1.0.0",
+  "description": "bu bir deneme projesidir :))",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "mcan": "echo 'Benim Adım M.Can ama sen kısaca Mehmet Can de :))'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Mehmet Can Dincel",
+  "license": "ISC",
+  "dependencies": {
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MCD-Yazilim/m-c-d.git"
+  }
+}
